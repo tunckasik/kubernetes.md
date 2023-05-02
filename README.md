@@ -4,6 +4,7 @@ This repository contains a collection of projects and hands-on exercises that I 
 # Repository Links
  - [MongoDB & MongoExpress on Kubernetes](https://github.com/tunckasik/MongoDB-MongoExpress-Kubernetes)
  - [Kubernetes Cluster Setup with Terraform and AWS EC2](https://github.com/tunckasik/Kubernetes-Cluster-Setup-with-Terraform-and-AWS-EC2)
+ - [Phonebook Microservice App on AWS with Kubernetes and Terraform](https://github.com/tunckasik/Phonebook-Microservice-App-AWS-Kubernetes)
 
 
 # Additional Repositories
